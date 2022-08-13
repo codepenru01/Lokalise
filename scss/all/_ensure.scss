@@ -1,0 +1,30 @@
+.ensure {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 250px;
+}
+
+.ensure__heading {
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 60px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.ensure__text {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+    max-width: 480px;
+    margin-bottom: 35px;
+}
+
+.ensure__link {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}

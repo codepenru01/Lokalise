@@ -1,0 +1,37 @@
+.need-section {
+    margin-bottom: 250px;
+}
+
+.need {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.need__title {
+    max-width: 480px;
+}
+
+.need__heading {
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 60px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.need__text {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+    max-width: 464px;
+    margin-bottom: 30px;
+}
+
+.need__link {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
